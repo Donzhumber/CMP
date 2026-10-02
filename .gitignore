@@ -24,3 +24,6 @@ lake-packages/
 
 # macOS / editor cruft
 .DS_Store
+
+# ScholarOne combined proofs
+PDF*.pdf
